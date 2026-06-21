@@ -1,0 +1,20 @@
+macro_factors:
+  global_equity:
+    ticker: "MXWO Index"
+    field: "PX_LAST"
+
+  global_bond:
+    ticker: "LEGATRUU Index"
+    field: "PX_LAST"
+
+  inflation:
+    ticker: "USGGBE10 Index"
+    field: "PX_LAST"
+
+  credit_spread:
+    ticker: "BAMLH0A0HYM2 Index"
+    field: "PX_LAST"
+
+  commodity:
+    ticker: "BCOMTR Index"
+    field: "PX_LAST"
