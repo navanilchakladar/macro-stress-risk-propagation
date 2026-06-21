@@ -16,6 +16,10 @@ The framework is designed around institutional portfolio risk concepts:
 - Weighted R-squared diagnostics
 - Mahalanobis stress severity diagnostics
 
+
+---
+
+
 ## Methodology
 
 The model partitions the covariance matrix into asset and factor blocks:
